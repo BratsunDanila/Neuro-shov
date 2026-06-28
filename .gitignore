@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Django/runtime
+backend/media/
+backend/staticfiles/
+backend/db.sqlite3
+
+# Android/Gradle
+android/.gradle/
+android/.kotlin/
+android/**/build/
+android/local.properties
+android/.idea
+
+# ML/runtime artifacts
+runs/**/last.pt
+runs/**/*.log
+runs/segment/
+*.npy
+*.onnx
+*.tflite.jar
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/workspace.xml
+.vscode/

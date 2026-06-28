@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.WeldingDefect" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#1f6feb</item>
+        <item name="colorPrimaryVariant">#1557bd</item>
+        <item name="colorOnPrimary">#ffffff</item>
+        <item name="colorSecondary">#475569</item>
+        <item name="colorSurface">#ffffff</item>
+        <item name="colorOnSurface">#111827</item>
+        <item name="android:colorBackground">#05070a</item>
+        <item name="android:statusBarColor">#05070a</item>
+        <item name="android:navigationBarColor">#05070a</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>
