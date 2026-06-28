@@ -44,6 +44,17 @@ runs/      сохранённые результаты двух актуальн
 app.py     desktop GUI для проверки модели на фото
 ```
 
+## Скриншоты
+
+### Desktop GUI
+
+![Desktop GUI](docs/images/pc.png)
+
+### Android-приложение
+
+![Android app](docs/images/andr.png)
+
+
 ## Быстрый запуск
 
 ### Desktop GUI
